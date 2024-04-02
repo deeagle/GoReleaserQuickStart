@@ -24,6 +24,8 @@ A very short guide.
 
 ## Need more tests
 
+- [x] test changelog (in release notes) of multiple commits
+  - all commit-msg between two git-tags seems used, see [v0.1.4]
 - [ ] test with GitHub Actions
 - [ ] test with Semantic-Release integration
 
@@ -31,3 +33,5 @@ A very short guide.
 
 - [GoReleaser](https://goreleaser.com/)
 - [GoReleaser Customizations](https://goreleaser.com/customization/)
+
+[v0.1.4]: https://github.com/deeagle/GoReleaserQuickStart/releases/tag/v0.1.4
