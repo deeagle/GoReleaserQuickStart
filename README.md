@@ -22,6 +22,11 @@ A very short guide.
    - release
      `goreleaser release --clean`
 
+## Need more tests
+
+- [ ] test with GitHub Actions
+- [ ] test with Semantic-Release integration
+
 ## Weblinks
 
 - [GoReleaser](https://goreleaser.com/)
